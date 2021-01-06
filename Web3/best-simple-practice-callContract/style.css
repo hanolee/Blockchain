@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    align-items: center;
+    display: block;
+}
+h1 {
+    border-bottom: blueviolet solid 2px;
+    padding-bottom: 2em;
+}
+h2 {
+    margin-top: 2em;
+}
+button {
+    width: 200px;
+    height: 80px;
+    background-color: white;
+    border: blueviolet solid 2px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: blueviolet;
+    width: 200px;
+    height: 80px;
+    color: white;
+    font-weight: bold;
+    border: blueviolet solid 2px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+
+span {
+    margin-top: 3em;
+    display: block;
+    border-bottom: blueviolet solid 1px;
+    padding-bottom: 2em;
+}
